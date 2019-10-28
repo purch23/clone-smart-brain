@@ -1,4 +1,4 @@
-# SmartBrain
+# SmartBrain Client
 Final project for Udemy course
 
 1. Clone this repo
